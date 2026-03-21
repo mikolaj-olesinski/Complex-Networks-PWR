@@ -1,0 +1,2 @@
+- ze jest seeds nodes zamiast seed nodes (tam tez literkowki w tekscie)
+- wagi sa inaczej niz w poleceniu
